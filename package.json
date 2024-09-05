@@ -1,7 +1,7 @@
 {
   "name": "true-value",
-  "version": "1.3.0",
-  "description": "exports true",
+  "version": "1.3.1",
+  "description": "True",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +17,11 @@
     "not": "^0.1.0",
     "vanilla-javascript": "^1.1.1",
     "vapor-js-npm": "^1.4.6"
-  }
+  },
+  "homepage": "https://github.com/tj-commits/true-value",
+  "repository": {
+    "url": "git+https://github.com/tj-commits/true-value.git",
+    "type": "git"
+  },
+  "bugs": "https://github.com/tj-commits/true-value/issues"
 }
